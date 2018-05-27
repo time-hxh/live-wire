@@ -18,4 +18,6 @@ developed by hhhhhxh
 
 2017.09.01 ~ 2017.09.20
 
-## Reference paper "Intelligent scissors for image composition" written by Morten-son and Barrett
+
+
+Reference paper "Intelligent scissors for image composition" written by Morten-son and Barrett
