@@ -17,3 +17,5 @@ Remember to modify the filepath in main.cpp before you run.
 developed by hhhhhxh
 
 2017.09.01 ~ 2017.09.20
+
+#### Reference <Intelligent scissors for image composition> paper written by Morten-son and Barrett
