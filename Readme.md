@@ -20,4 +20,4 @@ developed by hhhhhxh
 
 
 
-Reference paper "Intelligent scissors for image composition" written by Morten-son and Barrett
+*Reference paper "Intelligent scissors for image composition" written by Morten-son and Barrett*
