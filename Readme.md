@@ -2,7 +2,7 @@
 
 按下鼠标左键并拖动,就会自动在图中找出边界。
 
-在运行之间记得修改main.cpp中的filepath。
+在运行之前记得修改main.cpp中的filepath。
 
 开发者:hhhhhxh
 
