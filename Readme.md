@@ -1,5 +1,3 @@
-# LiveWire
-
 Find the boundary of your image automatically, remember to modify the filepath in main.cpp before you run.
 
 2017.09.01 ~ 2017.09.20
